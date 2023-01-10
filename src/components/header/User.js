@@ -19,6 +19,7 @@ export const User = () => {
 
   const dispatch = useDispatch()
   const logoutHandler = (e) => {
+    
     dispatch(authActions.logout())
   }
   return (

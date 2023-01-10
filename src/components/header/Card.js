@@ -1,7 +1,7 @@
 import React, { useState } from "react"
 import { BiShoppingBag } from "react-icons/bi"
 import { AiOutlineClose } from "react-icons/ai"
-import { product } from "../../assets/data/data"
+// import { product } from "../../assets/data/data"
 import { CartItems } from "./CartItems"
 import { useSelector } from "react-redux"
 

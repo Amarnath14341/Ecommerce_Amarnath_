@@ -1,7 +1,7 @@
 import React from "react"
 import "./login.css"
 import back from "../../assets/images/my-account.jpg"
-import { BrowserRouter as Router,Link } from "react-router-dom"
+// import { BrowserRouter as Router,Link } from "react-router-dom"
 
 export const Regsiter = () => {
   return (
