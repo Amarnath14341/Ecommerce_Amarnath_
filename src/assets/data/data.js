@@ -5,7 +5,6 @@ export const slide = [
   { image: "../images/slide/slide2.png" },
   { image: "../images/slide/slide3.png" },
   { image: "../images/slide/slide4.png" },
-  { image: "../images/slide/car.png" },
 ]
 export const order = [
   {

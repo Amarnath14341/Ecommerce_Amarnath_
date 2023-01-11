@@ -7,6 +7,7 @@ import { Home } from "./pages/home/Home"
 import { Login } from "./pages/login/Login"
 import { Regsiter } from "./pages/login/Regsiter"
 import { useSelector } from "react-redux"
+import 'bootstrap/dist/css/bootstrap.min.css'
 
 const App = () => {
   const isLoggIn = useSelector((state) => state.auth.isLoggIn)

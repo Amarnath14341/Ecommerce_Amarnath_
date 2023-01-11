@@ -5,6 +5,11 @@
   width: 100%;
 }
 
+.Slide .slideimg {
+  width: 100%;
+
+}
+
 /*  order */
 .order {
   margin-top: 50px;
